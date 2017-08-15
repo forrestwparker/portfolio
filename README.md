@@ -9,11 +9,11 @@ Follow the links below for more details about the projects and my role in their 
 ***
 
 #### HTML, CSS, and JavaScript
-- My [Portfolio Website](www.forrestwparker.com) hosted at [GitHub](https://github.com/forrestwparker/forrestwparker.github.io).
+- My [portfolio website](http://www.forrestwparker.com/) hosted at [GitHub](https://github.com/forrestwparker/forrestwparker.github.io).
 
 #### C\#
 - Blue Ribbons Review
-- [My Solutions](https://github.com/forrestwparker/hackerrank-solutions) to several challenges at [HackerRank](https://www.hackerrank.com/).
+- My [solutions](https://github.com/forrestwparker/hackerrank-solutions) to several coding challenges at [HackerRank](https://www.hackerrank.com/).
 
 #### Python
 - A deductive-reasoning [horse racing game](https://github.com/forrestwparker/Horse-Game).
