@@ -1,5 +1,4 @@
 ## Coding Portfolio for Forrest Parker
-
 ***
 
 These are the collection of coding projects to which I made a substantial contribution. In several cases, I am both the creator and sole contributor. The projects are arranged by language.
@@ -21,7 +20,7 @@ Follow the links below for more details about the projects and my role in their 
 - A visual demonstration of a [spanning tree algorithm](https://github.com/forrestwparker/Spanning-Tree-Demo) in the setting of Minesweeper.
 
 #### Swift
-- Future projects.
+- Coming soon.
 
 #### [GAP](http://www.gap-system.org/)
 - A collection of functions for analyzing finite [cyclically presented groups](https://github.com/forrestwparker/tools-for-cyclically-presented-groups).
