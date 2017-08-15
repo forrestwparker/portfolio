@@ -1,4 +1,4 @@
-## Coding Portfolio for Forrest Parker
+### Coding Portfolio for Forrest Parker
 ***
 
 These are the collection of coding projects to which I made a substantial contribution. In several cases, I am both the creator and sole contributor. The projects are arranged by language.
