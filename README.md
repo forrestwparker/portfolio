@@ -23,4 +23,4 @@ Follow the links below for more details about the projects and my role in their 
 - Coming soon.
 
 #### [GAP](http://www.gap-system.org/)
-- A collection of functions for analyzing finite [cyclically presented groups](https://github.com/forrestwparker/tools-for-cyclically-presented-groups).
+- A [collection of functions](https://github.com/forrestwparker/tools-for-cyclically-presented-groups) for analyzing cyclically presented groups that are finite.
