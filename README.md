@@ -1,9 +1,9 @@
 ### Coding Portfolio for Forrest Parker
 ***
 
-These are the collection of coding projects to which I made a substantial contribution. In several cases, I am both the creator and sole contributor. The projects are arranged by language.
+These are the collection of coding projects to which I made a substantial contribution. In several cases, I am both the creator and sole contributor.
 
-Follow the links below for more details about the projects and my role in their development.
+Follow the links below to see more details about the individual projects and what role I played in their development.
 
 ***
 
