@@ -7,12 +7,15 @@ Follow the links below for more details about the projects and my role in their 
 
 ***
 
-#### HTML, CSS, and JavaScript
-- My [portfolio website](http://www.forrestwparker.com/) hosted at [GitHub](https://github.com/forrestwparker/forrestwparker.github.io).
-
 #### C\#
 - Blue Ribbons Review
 - My [solutions](https://github.com/forrestwparker/hackerrank-solutions) to several coding challenges at [HackerRank](https://www.hackerrank.com/).
+
+#### [GAP](http://www.gap-system.org/)
+- A collection of functions for analyzing finite [cyclically presented groups](https://github.com/forrestwparker/tools-for-cyclically-presented-groups).
+
+#### HTML, CSS, and JavaScript
+- My [portfolio website](http://www.forrestwparker.com/) hosted at [GitHub](https://github.com/forrestwparker/forrestwparker.github.io).
 
 #### Python
 - A deductive-reasoning [horse racing game](https://github.com/forrestwparker/Horse-Game).
@@ -21,6 +24,3 @@ Follow the links below for more details about the projects and my role in their 
 
 #### Swift
 - Coming soon.
-
-#### [GAP](http://www.gap-system.org/)
-- A collection of functions for analyzing finite [cyclically presented groups](https://github.com/forrestwparker/tools-for-cyclically-presented-groups).
