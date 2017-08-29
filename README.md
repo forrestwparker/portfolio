@@ -1,18 +1,21 @@
 ### Coding Portfolio for Forrest Parker
 ***
 
-These are the collection of coding projects to which I made a substantial contribution. In several cases, I am both the creator and sole contributor. The projects are arranged by language.
+These are the collection of coding projects to which I made a substantial contribution. In several cases, I am both the creator and sole contributor.
 
-Follow the links below for more details about the projects and my role in their development.
+Follow the links below to see more details about the individual projects and what role I played in their development.
 
 ***
 
+#### C\#
+- [BlueRibbonsReview.com](./C%23/BlueRibbonsReview.md) - [Link to website](http://www.blueribbonsreview.com/)
+- My [solutions](https://github.com/forrestwparker/hackerrank-solutions) to several coding challenges at [HackerRank](https://www.hackerrank.com/).
+
+#### [GAP](http://www.gap-system.org/)
+- A collection of functions for analyzing finite [cyclically presented groups](https://github.com/forrestwparker/tools-for-cyclically-presented-groups).
+
 #### HTML, CSS, and JavaScript
 - My [portfolio website](http://www.forrestwparker.com/) hosted at [GitHub](https://github.com/forrestwparker/forrestwparker.github.io).
-
-#### C\#
-- Blue Ribbons Review
-- My [solutions](https://github.com/forrestwparker/hackerrank-solutions) to several coding challenges at [HackerRank](https://www.hackerrank.com/).
 
 #### Python
 - A deductive-reasoning [horse racing game](https://github.com/forrestwparker/Horse-Game).
@@ -21,6 +24,3 @@ Follow the links below for more details about the projects and my role in their 
 
 #### Swift
 - Coming soon.
-
-#### [GAP](http://www.gap-system.org/)
-- A [collection of functions](https://github.com/forrestwparker/tools-for-cyclically-presented-groups) for analyzing cyclically presented groups that are finite.
