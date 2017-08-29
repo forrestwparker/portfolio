@@ -8,7 +8,7 @@ Follow the links below to see more details about the individual projects and wha
 ***
 
 #### C\#
-- [BlueRibbonsReview.com](./C#/BlueRibbonsReview.md) - [Link to website](http://www.blueribbonsreview.com/)
+- [BlueRibbonsReview.com](./C%23/BlueRibbonsReview.md) - [Link to website](http://www.blueribbonsreview.com/)
 - My [solutions](https://github.com/forrestwparker/hackerrank-solutions) to several coding challenges at [HackerRank](https://www.hackerrank.com/).
 
 #### [GAP](http://www.gap-system.org/)
